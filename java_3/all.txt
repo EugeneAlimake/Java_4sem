@@ -1,0 +1,10 @@
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 30
+Speed : 15
+Type of car : Taxi
+Stamp : Mercides
+Price : 30000$
+Fuel Consumption : 30
+Speed : 15
