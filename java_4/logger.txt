@@ -1,0 +1,1227 @@
+Type of car : Taxi
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-02-24 17:01:37 INFO  TaxiPark:20 - Add element
+2022-02-24 17:01:37 INFO  TaxiPark:20 - Add element
+2022-02-24 17:01:37 INFO  TaxiPark:49 - Writing to file was successful
+Type of car : Taxi
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-02-24 17:01:37 INFO  Main:44 - Validate xml document
+2022-02-24 17:07:40 INFO  TaxiPark:20 - Add element
+2022-02-24 17:07:40 INFO  TaxiPark:20 - Add element
+2022-02-24 17:07:40 INFO  TaxiPark:49 - Writing to file was successful
+Type of car : Taxi
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-02-24 17:07:40 INFO  Main:44 - Validate xml document
+2022-02-25 00:15:43 INFO  TaxiPark:20 - Add element
+2022-02-25 00:15:43 INFO  TaxiPark:20 - Add element
+2022-02-25 00:15:43 INFO  TaxiPark:49 - Writing to file was successful
+Type of car : Taxi
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-02-25 00:15:43 INFO  Main:44 - Validate xml document
+2022-02-25 00:16:17 INFO  TaxiPark:20 - Add element
+2022-02-25 00:16:17 INFO  TaxiPark:20 - Add element
+2022-02-25 00:16:17 INFO  TaxiPark:49 - Writing to file was successful
+Type of car : Taxi
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-02-25 00:16:17 INFO  Main:44 - Validate xml document
+2022-02-25 00:34:21 INFO  TaxiPark:20 - Add element
+2022-02-25 00:34:21 INFO  TaxiPark:20 - Add element
+2022-02-25 00:34:21 INFO  TaxiPark:49 - Writing to file was successful
+Type of car : Taxi
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-02-25 00:35:10 INFO  TaxiPark:20 - Add element
+2022-02-25 00:35:10 INFO  TaxiPark:20 - Add element
+2022-02-25 00:35:10 INFO  TaxiPark:49 - Writing to file was successful
+Type of car : Taxi
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-02-25 00:35:10 INFO  Main:46 - Validate xml document
+2022-02-25 00:55:01 INFO  TaxiPark:20 - Add element
+2022-02-25 00:55:01 INFO  TaxiPark:20 - Add element
+2022-02-25 00:55:01 INFO  TaxiPark:49 - Writing to file was successful
+Type of car : Taxi
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-02-25 00:55:02 INFO  Main:46 - Validate xml document
+2022-02-27 14:21:42 INFO  TaxiPark:20 - Add element
+2022-02-27 14:21:42 INFO  TaxiPark:20 - Add element
+2022-02-27 14:21:42 INFO  TaxiPark:26 - Add element
+2022-02-27 14:21:42 INFO  TaxiPark:54 - Writing to file was successful
+Type of car : Taxi
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-02-27 14:21:42 INFO  Main:46 - Validate xml document
+2022-02-27 15:06:23 INFO  TaxiPark:20 - Add element
+2022-02-27 15:06:23 INFO  TaxiPark:20 - Add element
+2022-02-27 15:06:23 INFO  TaxiPark:26 - Add element
+2022-02-27 15:06:23 INFO  TaxiPark:54 - Writing to file was successful
+Type of car : Taxi
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-02-27 15:06:23 INFO  TaxiPark:26 - Add element
+2022-02-27 15:06:59 INFO  TaxiPark:20 - Add element
+2022-02-27 15:06:59 INFO  TaxiPark:20 - Add element
+2022-02-27 15:06:59 INFO  TaxiPark:26 - Add element
+2022-02-27 15:06:59 INFO  TaxiPark:54 - Writing to file was successful
+Type of car : Taxi
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-02-27 15:10:54 INFO  TaxiPark:20 - Add element
+2022-02-27 15:10:54 INFO  TaxiPark:20 - Add element
+2022-02-27 15:10:54 INFO  TaxiPark:26 - Add element
+2022-02-27 15:10:54 INFO  TaxiPark:54 - Writing to file was successful
+Type of car : Taxi
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-02-27 15:10:54 INFO  TaxiPark:26 - Add element
+2022-02-27 15:21:30 INFO  TaxiPark:20 - Add element
+2022-02-27 15:21:30 INFO  TaxiPark:20 - Add element
+2022-02-27 15:21:30 INFO  TaxiPark:26 - Add element
+2022-02-27 15:21:30 INFO  TaxiPark:54 - Writing to file was successful
+Type of car : Taxi
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-02-27 15:21:30 INFO  TaxiPark:26 - Add element
+2022-02-27 15:23:38 INFO  TaxiPark:20 - Add element
+2022-02-27 15:23:38 INFO  TaxiPark:20 - Add element
+2022-02-27 15:23:38 INFO  TaxiPark:26 - Add element
+2022-02-27 15:23:38 INFO  TaxiPark:54 - Writing to file was successful
+Type of car : Taxi
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-02-27 15:23:38 INFO  TaxiPark:26 - Add element
+2022-02-27 15:25:17 INFO  TaxiPark:20 - Add element
+2022-02-27 15:25:17 INFO  TaxiPark:20 - Add element
+2022-02-27 15:25:17 INFO  TaxiPark:26 - Add element
+2022-02-27 15:25:17 INFO  TaxiPark:54 - Writing to file was successful
+Type of car : Taxi
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-02-27 15:25:17 INFO  TaxiPark:26 - Add element
+2022-02-27 15:35:13 INFO  TaxiPark:20 - Add element
+2022-02-27 15:35:13 INFO  TaxiPark:20 - Add element
+2022-02-27 15:35:13 INFO  TaxiPark:26 - Add element
+2022-02-27 15:35:13 INFO  TaxiPark:54 - Writing to file was successful
+Type of car : Taxi
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-02-27 15:58:54 INFO  TaxiPark:20 - Add element
+2022-02-27 15:58:54 INFO  TaxiPark:20 - Add element
+2022-02-27 15:58:54 INFO  TaxiPark:26 - Add element
+2022-02-27 15:58:54 INFO  TaxiPark:54 - Writing to file was successful
+Type of car : Taxi
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-02-27 15:58:54 INFO  TaxiPark:26 - Add element
+2022-02-27 16:03:32 INFO  TaxiPark:20 - Add element
+2022-02-27 16:03:32 INFO  TaxiPark:20 - Add element
+2022-02-27 16:03:32 INFO  TaxiPark:26 - Add element
+2022-02-27 16:03:32 INFO  TaxiPark:54 - Writing to file was successful
+Type of car : Taxi
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-02-27 16:03:32 INFO  TaxiPark:26 - Add element
+2022-02-27 16:03:45 INFO  TaxiPark:20 - Add element
+2022-02-27 16:03:45 INFO  TaxiPark:20 - Add element
+2022-02-27 16:03:45 INFO  TaxiPark:26 - Add element
+2022-02-27 16:03:45 INFO  TaxiPark:54 - Writing to file was successful
+Type of car : Taxi
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-02-27 16:03:45 INFO  TaxiPark:26 - Add element
+2022-02-27 16:04:30 INFO  TaxiPark:20 - Add element
+2022-02-27 16:04:30 INFO  TaxiPark:20 - Add element
+2022-02-27 16:04:30 INFO  TaxiPark:26 - Add element
+2022-02-27 16:04:30 INFO  TaxiPark:54 - Writing to file was successful
+Type of car : Taxi
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-02-27 16:04:30 INFO  TaxiPark:26 - Add element
+2022-02-27 16:05:03 INFO  TaxiPark:20 - Add element
+2022-02-27 16:05:03 INFO  TaxiPark:20 - Add element
+2022-02-27 16:05:03 INFO  TaxiPark:26 - Add element
+2022-02-27 16:05:03 INFO  TaxiPark:54 - Writing to file was successful
+Type of car : Taxi
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-02-27 16:05:03 INFO  TaxiPark:26 - Add element
+2022-02-27 16:30:16 INFO  TaxiPark:20 - Add element
+2022-02-27 16:30:16 INFO  TaxiPark:20 - Add element
+2022-02-27 16:30:16 INFO  TaxiPark:26 - Add element
+2022-02-27 16:30:16 INFO  TaxiPark:54 - Writing to file was successful
+Type of car : Taxi
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-02-27 16:30:16 INFO  TaxiPark:26 - Add element
+2022-02-27 16:32:25 INFO  TaxiPark:20 - Add element
+2022-02-27 16:32:25 INFO  TaxiPark:20 - Add element
+2022-02-27 16:32:25 INFO  TaxiPark:26 - Add element
+2022-02-27 16:32:25 INFO  TaxiPark:54 - Writing to file was successful
+Type of car : Taxi
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-02-27 16:32:25 INFO  TaxiPark:26 - Add element
+2022-02-27 16:32:46 INFO  TaxiPark:20 - Add element
+2022-02-27 16:32:46 INFO  TaxiPark:20 - Add element
+2022-02-27 16:32:46 INFO  TaxiPark:26 - Add element
+2022-02-27 16:32:46 INFO  TaxiPark:54 - Writing to file was successful
+Type of car : Taxi
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-02-27 16:33:21 INFO  TaxiPark:26 - Add element
+2022-02-27 16:34:03 INFO  TaxiPark:20 - Add element
+2022-02-27 16:34:03 INFO  TaxiPark:20 - Add element
+2022-02-27 16:34:03 INFO  TaxiPark:26 - Add element
+2022-02-27 16:34:03 INFO  TaxiPark:54 - Writing to file was successful
+Type of car : Taxi
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-02-27 16:34:03 INFO  TaxiPark:26 - Add element
+2022-02-27 16:41:22 INFO  TaxiPark:20 - Add element
+2022-02-27 16:41:22 INFO  TaxiPark:20 - Add element
+2022-02-27 16:41:22 INFO  TaxiPark:26 - Add element
+2022-02-27 16:41:22 INFO  TaxiPark:54 - Writing to file was successful
+Type of car : Taxi
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-02-27 16:41:22 INFO  TaxiPark:26 - Add element
+2022-02-27 16:53:35 INFO  TaxiPark:20 - Add element
+2022-02-27 16:53:35 INFO  TaxiPark:20 - Add element
+2022-02-27 16:53:35 INFO  TaxiPark:26 - Add element
+2022-02-27 16:53:35 INFO  TaxiPark:54 - Writing to file was successful
+Type of car : Taxi
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-02-27 16:53:35 INFO  TaxiPark:26 - Add element
+2022-02-27 17:03:00 INFO  TaxiPark:20 - Add element
+2022-02-27 17:03:00 INFO  TaxiPark:20 - Add element
+2022-02-27 17:03:00 INFO  TaxiPark:26 - Add element
+2022-02-27 17:03:00 INFO  TaxiPark:54 - Writing to file was successful
+Type of car : Taxi
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-02-27 17:03:00 INFO  TaxiPark:26 - Add element
+2022-02-27 17:03:44 INFO  TaxiPark:20 - Add element
+2022-02-27 17:03:44 INFO  TaxiPark:20 - Add element
+2022-02-27 17:03:44 INFO  TaxiPark:26 - Add element
+2022-02-27 17:03:44 INFO  TaxiPark:54 - Writing to file was successful
+Type of car : Taxi
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-02-27 17:03:44 INFO  TaxiPark:26 - Add element
+2022-02-27 17:04:23 INFO  TaxiPark:20 - Add element
+2022-02-27 17:04:23 INFO  TaxiPark:20 - Add element
+2022-02-27 17:04:23 INFO  TaxiPark:26 - Add element
+2022-02-27 17:04:23 INFO  TaxiPark:54 - Writing to file was successful
+Type of car : Taxi
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-02-27 17:04:23 INFO  TaxiPark:26 - Add element
+2022-02-27 17:16:17 INFO  TaxiPark:20 - Add element
+2022-02-27 17:16:17 INFO  TaxiPark:20 - Add element
+2022-02-27 17:16:17 INFO  TaxiPark:26 - Add element
+2022-02-27 17:16:17 INFO  TaxiPark:54 - Writing to file was successful
+Type of car : Taxi
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-02-27 17:16:17 INFO  TaxiPark:26 - Add element
+2022-02-27 17:17:56 INFO  TaxiPark:20 - Add element
+2022-02-27 17:17:56 INFO  TaxiPark:20 - Add element
+2022-02-27 17:17:56 INFO  TaxiPark:26 - Add element
+2022-02-27 17:17:56 INFO  TaxiPark:54 - Writing to file was successful
+Type of car : Taxi
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-02-27 17:17:56 INFO  TaxiPark:26 - Add element
+2022-02-27 17:29:52 INFO  TaxiPark:20 - Add element
+2022-02-27 17:29:52 INFO  TaxiPark:20 - Add element
+2022-02-27 17:29:52 INFO  TaxiPark:26 - Add element
+2022-02-27 17:29:52 INFO  TaxiPark:54 - Writing to file was successful
+Type of car : Taxi
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-02-27 17:29:52 INFO  TaxiPark:26 - Add element
+2022-02-27 17:30:17 INFO  TaxiPark:20 - Add element
+2022-02-27 17:30:17 INFO  TaxiPark:20 - Add element
+2022-02-27 17:30:17 INFO  TaxiPark:26 - Add element
+2022-02-27 17:30:17 INFO  TaxiPark:54 - Writing to file was successful
+Type of car : Taxi
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-02-27 17:30:17 INFO  TaxiPark:26 - Add element
+2022-02-27 18:04:09 INFO  TaxiPark:20 - Add element
+2022-02-27 18:04:09 INFO  TaxiPark:20 - Add element
+2022-02-27 18:04:09 INFO  TaxiPark:26 - Add element
+2022-02-27 18:04:09 INFO  TaxiPark:54 - Writing to file was successful
+Type of car : Bus
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 0
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-02-27 18:04:09 INFO  TaxiPark:26 - Add element
+2022-02-27 18:10:32 INFO  TaxiPark:20 - Add element
+2022-02-27 18:10:32 INFO  TaxiPark:20 - Add element
+2022-02-27 18:10:32 INFO  TaxiPark:26 - Add element
+2022-02-27 18:10:32 INFO  TaxiPark:54 - Writing to file was successful
+Type of car : Bus
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 0
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-02-27 18:10:32 INFO  TaxiPark:26 - Add element
+2022-02-27 18:17:07 INFO  TaxiPark:20 - Add element
+2022-02-27 18:17:07 INFO  TaxiPark:20 - Add element
+2022-02-27 18:17:07 INFO  TaxiPark:26 - Add element
+2022-02-27 18:17:07 INFO  TaxiPark:54 - Writing to file was successful
+Type of car : Bus
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 0
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-02-27 18:17:07 INFO  TaxiPark:26 - Add element
+2022-02-27 18:23:26 INFO  TaxiPark:20 - Add element
+2022-02-27 18:23:26 INFO  TaxiPark:20 - Add element
+2022-02-27 18:23:26 INFO  TaxiPark:26 - Add element
+2022-02-27 18:23:26 INFO  TaxiPark:54 - Writing to file was successful
+Type of car : Bus
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-02-27 18:23:26 INFO  TaxiPark:26 - Add element
+2022-02-27 18:29:04 INFO  TaxiPark:20 - Add element
+2022-02-27 18:29:04 INFO  TaxiPark:20 - Add element
+2022-02-27 18:29:04 INFO  TaxiPark:26 - Add element
+2022-02-27 18:29:04 INFO  TaxiPark:54 - Writing to file was successful
+Type of car : Bus
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-02-27 18:29:04 INFO  TaxiPark:26 - Add element
+2022-02-27 18:30:42 INFO  TaxiPark:20 - Add element
+2022-02-27 18:30:42 INFO  TaxiPark:20 - Add element
+2022-02-27 18:30:42 INFO  TaxiPark:26 - Add element
+2022-02-27 18:30:42 INFO  TaxiPark:54 - Writing to file was successful
+Type of car : Bus
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-02-27 18:30:42 INFO  TaxiPark:26 - Add element
+2022-02-27 18:30:49 INFO  TaxiPark:20 - Add element
+2022-02-27 18:30:49 INFO  TaxiPark:20 - Add element
+2022-02-27 18:30:49 INFO  TaxiPark:26 - Add element
+2022-02-27 18:30:49 INFO  TaxiPark:54 - Writing to file was successful
+Type of car : Bus
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-02-27 18:30:49 INFO  TaxiPark:26 - Add element
+2022-02-27 18:31:25 INFO  TaxiPark:20 - Add element
+2022-02-27 18:31:25 INFO  TaxiPark:20 - Add element
+2022-02-27 18:31:25 INFO  TaxiPark:26 - Add element
+2022-02-27 18:31:25 INFO  TaxiPark:54 - Writing to file was successful
+Type of car : Bus
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-02-27 18:31:25 INFO  TaxiPark:26 - Add element
+2022-02-27 18:32:29 INFO  TaxiPark:20 - Add element
+2022-02-27 18:32:29 INFO  TaxiPark:20 - Add element
+2022-02-27 18:32:29 INFO  TaxiPark:26 - Add element
+2022-02-27 18:32:29 INFO  TaxiPark:54 - Writing to file was successful
+Type of car : Bus
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-02-27 18:32:29 INFO  TaxiPark:26 - Add element
+2022-02-27 18:35:40 INFO  TaxiPark:20 - Add element
+2022-02-27 18:35:40 INFO  TaxiPark:20 - Add element
+2022-02-27 18:35:40 INFO  TaxiPark:26 - Add element
+2022-02-27 18:35:40 INFO  TaxiPark:54 - Writing to file was successful
+Type of car : Bus
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-02-27 18:35:40 INFO  TaxiPark:26 - Add element
+2022-02-27 18:39:12 INFO  TaxiPark:20 - Add element
+2022-02-27 18:39:12 INFO  TaxiPark:20 - Add element
+2022-02-27 18:39:12 INFO  TaxiPark:26 - Add element
+2022-02-27 18:39:12 INFO  TaxiPark:54 - Writing to file was successful
+Type of car : Bus
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-02-27 18:39:12 INFO  TaxiPark:26 - Add element
+2022-02-27 18:39:29 INFO  TaxiPark:20 - Add element
+2022-02-27 18:39:29 INFO  TaxiPark:20 - Add element
+2022-02-27 18:39:29 INFO  TaxiPark:26 - Add element
+2022-02-27 18:39:29 INFO  TaxiPark:54 - Writing to file was successful
+Type of car : Bus
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-02-27 18:39:30 INFO  TaxiPark:26 - Add element
+2022-02-27 19:44:43 INFO  TaxiPark:20 - Add element
+2022-02-27 19:44:43 INFO  TaxiPark:20 - Add element
+2022-02-27 19:44:43 INFO  TaxiPark:26 - Add element
+2022-02-27 19:44:43 INFO  TaxiPark:54 - Writing to file was successful
+Type of car : Bus
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-02-27 19:44:43 INFO  TaxiPark:26 - Add element
+2022-02-27 19:45:12 INFO  TaxiPark:20 - Add element
+2022-02-27 19:45:12 INFO  TaxiPark:20 - Add element
+2022-02-27 19:45:12 INFO  TaxiPark:26 - Add element
+2022-02-27 19:45:12 INFO  TaxiPark:54 - Writing to file was successful
+Type of car : Bus
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-02-27 19:45:12 INFO  TaxiPark:26 - Add element
+2022-02-27 20:51:54 INFO  TaxiPark:20 - Add element
+2022-02-27 20:51:54 INFO  TaxiPark:20 - Add element
+2022-02-27 20:51:54 INFO  TaxiPark:26 - Add element
+2022-02-27 20:51:54 INFO  TaxiPark:54 - Writing to file was successful
+Type of car : Bus
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-02-27 20:51:54 INFO  TaxiPark:26 - Add element
+2022-02-27 21:18:54 INFO  TaxiPark:20 - Add element
+2022-02-27 21:18:54 INFO  TaxiPark:20 - Add element
+2022-02-27 21:18:54 INFO  TaxiPark:26 - Add element
+2022-02-27 21:18:54 INFO  TaxiPark:54 - Writing to file was successful
+Type of car : Bus
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-02-27 21:18:55 INFO  TaxiPark:26 - Add element
+2022-02-27 21:35:00 INFO  TaxiPark:21 - Add element
+2022-02-27 21:35:00 INFO  TaxiPark:21 - Add element
+2022-02-27 21:35:00 INFO  TaxiPark:27 - Add element
+2022-02-27 21:35:00 INFO  TaxiPark:55 - Writing to file was successful
+Type of car : Bus
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-02-27 21:35:00 INFO  TaxiPark:27 - Add element
+2022-02-27 21:36:09 INFO  TaxiPark:21 - Add element
+2022-02-27 21:36:09 INFO  TaxiPark:21 - Add element
+2022-02-27 21:36:09 INFO  TaxiPark:27 - Add element
+2022-02-27 21:36:09 INFO  TaxiPark:55 - Writing to file was successful
+Type of car : Bus
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-02-27 21:36:09 INFO  TaxiPark:27 - Add element
+2022-03-01 16:32:25 INFO  TaxiPark:21 - Add element
+2022-03-01 16:32:25 INFO  TaxiPark:21 - Add element
+2022-03-01 16:32:25 INFO  TaxiPark:27 - Add element
+2022-03-01 16:32:26 INFO  TaxiPark:55 - Writing to file was successful
+Type of car : Bus
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-03-01 16:32:26 INFO  TaxiPark:27 - Add element
+2022-03-12 20:25:53 INFO  TaxiPark:21 - Add element
+2022-03-12 20:25:53 INFO  TaxiPark:21 - Add element
+2022-03-12 20:25:53 INFO  TaxiPark:27 - Add element
+2022-03-12 20:25:53 INFO  TaxiPark:55 - Writing to file was successful
+Type of car : Bus
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-03-12 20:25:53 INFO  TaxiPark:27 - Add element
+2022-03-12 20:26:33 INFO  TaxiPark:21 - Add element
+2022-03-12 20:26:33 INFO  TaxiPark:21 - Add element
+2022-03-12 20:26:33 INFO  TaxiPark:27 - Add element
+2022-03-12 20:26:33 INFO  TaxiPark:55 - Writing to file was successful
+Type of car : Bus
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-03-12 20:26:33 INFO  TaxiPark:27 - Add element
+2022-03-12 20:27:07 INFO  TaxiPark:21 - Add element
+2022-03-12 20:27:07 INFO  TaxiPark:21 - Add element
+2022-03-12 20:27:07 INFO  TaxiPark:27 - Add element
+2022-03-12 20:27:07 INFO  TaxiPark:55 - Writing to file was successful
+Type of car : Bus
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-03-12 20:27:07 INFO  TaxiPark:27 - Add element
+2022-03-12 20:29:05 INFO  TaxiPark:21 - Add element
+2022-03-12 20:29:05 INFO  TaxiPark:21 - Add element
+2022-03-12 20:29:05 INFO  TaxiPark:27 - Add element
+2022-03-12 20:29:05 INFO  TaxiPark:55 - Writing to file was successful
+Type of car : Bus
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-03-12 20:29:05 INFO  TaxiPark:27 - Add element
+2022-03-12 20:31:26 INFO  TaxiPark:21 - Add element
+2022-03-12 20:31:26 INFO  TaxiPark:21 - Add element
+2022-03-12 20:31:26 INFO  TaxiPark:27 - Add element
+2022-03-12 20:31:26 INFO  TaxiPark:55 - Writing to file was successful
+Type of car : Bus
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-03-12 20:33:05 INFO  TaxiPark:21 - Add element
+2022-03-12 20:33:05 INFO  TaxiPark:21 - Add element
+2022-03-12 20:33:05 INFO  TaxiPark:27 - Add element
+2022-03-12 20:33:05 INFO  TaxiPark:55 - Writing to file was successful
+Type of car : Bus
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-03-12 20:33:05 INFO  TaxiPark:27 - Add element
+2022-03-12 20:33:34 INFO  TaxiPark:21 - Add element
+2022-03-12 20:33:34 INFO  TaxiPark:21 - Add element
+2022-03-12 20:33:34 INFO  TaxiPark:27 - Add element
+2022-03-12 20:33:34 INFO  TaxiPark:55 - Writing to file was successful
+Type of car : Bus
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-03-12 20:33:34 INFO  TaxiPark:27 - Add element
+2022-03-12 20:33:34 INFO  Main:67 - Validate xml document
+2022-03-22 12:40:38 INFO  TaxiPark:21 - Add element
+2022-03-22 12:40:38 INFO  TaxiPark:21 - Add element
+2022-03-22 12:40:38 INFO  TaxiPark:27 - Add element
+2022-03-22 12:40:38 INFO  TaxiPark:55 - Writing to file was successful
+Type of car : Bus
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-03-22 12:40:38 INFO  TaxiPark:27 - Add element
+2022-03-22 12:40:57 INFO  TaxiPark:21 - Add element
+2022-03-22 12:40:57 INFO  TaxiPark:21 - Add element
+2022-03-22 12:40:57 INFO  TaxiPark:27 - Add element
+2022-03-22 12:40:57 INFO  TaxiPark:55 - Writing to file was successful
+Type of car : Bus
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-03-22 12:40:57 INFO  TaxiPark:27 - Add element
+2022-03-22 12:41:56 INFO  TaxiPark:21 - Add element
+2022-03-22 12:41:56 INFO  TaxiPark:21 - Add element
+2022-03-22 12:41:56 INFO  TaxiPark:27 - Add element
+2022-03-22 12:41:56 INFO  TaxiPark:55 - Writing to file was successful
+Type of car : Bus
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-03-22 12:41:56 INFO  TaxiPark:27 - Add element
+2022-03-22 12:41:56 INFO  Main:67 - Validate xml document
+2022-03-22 16:40:30 INFO  TaxiPark:21 - Add element
+2022-03-22 16:40:30 INFO  TaxiPark:21 - Add element
+2022-03-22 16:40:30 INFO  TaxiPark:27 - Add element
+2022-03-22 16:40:30 INFO  TaxiPark:55 - Writing to file was successful
+Type of car : Bus
+Stamp : Mercides
+Price : 40000$
+Fuel Consumption : 30
+Speed : 80
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+Type of car : Bus
+Stamp : BMW
+Price : 30000$
+Fuel Consumption : 60
+Speed : 15
+2022-03-22 16:40:30 INFO  TaxiPark:27 - Add element
+2022-03-22 16:40:31 INFO  Main:72 - Validate xml document

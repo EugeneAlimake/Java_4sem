@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--<collection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"-->
+<!--            xsi:schemaLocation="xmlSchema.xsd">-->
+<Bus>
+    <stamp>Lamborgini</stamp>
+    <price>3000</price>
+    <FuelConsumption>200</FuelConsumption>
+    <speed>20</speed>
+</Bus>
+

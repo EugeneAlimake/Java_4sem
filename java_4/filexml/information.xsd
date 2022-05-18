@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+                <xs:element name="Bus">
+                    <xs:complexType>
+                        <xs:sequence>
+                                            <xs:element type="xs:string" name="stamp"/>
+                                            <xs:element type="xs:int" name="price"/>
+                                            <xs:element type="xs:int" name="FuelConsumption"/>
+                                            <xs:element type="xs:int" name="speed"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+</xs:schema>

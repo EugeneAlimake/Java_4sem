@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="17.0.2" class="java.beans.XMLDecoder">
+ <object class="by.nicolaeva.one.taxi.Bus" id="Bus0">
+  <void class="by.nicolaeva.one.taxi.AllTransportinTaxiPark" method="getField">
+   <string>types</string>
+   <void method="set">
+    <object idref="Bus0"/>
+    <string>Bus</string>
+   </void>
+  </void>
+  <void class="by.nicolaeva.one.taxi.AllTransportinTaxiPark" method="getField">
+   <string>stamp</string>
+   <void method="set">
+    <object idref="Bus0"/>
+    <string>BMW</string>
+   </void>
+  </void>
+  <void class="by.nicolaeva.one.taxi.AllTransportinTaxiPark" method="getField">
+   <string>price</string>
+   <void method="set">
+    <object idref="Bus0"/>
+    <int>30000</int>
+   </void>
+  </void>
+  <void class="by.nicolaeva.one.taxi.AllTransportinTaxiPark" method="getField">
+   <string>FuelConsumption</string>
+   <void method="set">
+    <object idref="Bus0"/>
+    <int>60</int>
+   </void>
+  </void>
+  <void class="by.nicolaeva.one.taxi.AllTransportinTaxiPark" method="getField">
+   <string>speed</string>
+   <void method="set">
+    <object idref="Bus0"/>
+    <int>15</int>
+   </void>
+  </void>
+ </object>
+</java>
